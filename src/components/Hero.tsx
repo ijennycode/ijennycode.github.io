@@ -193,7 +193,7 @@ export const Hero: React.FC<HeroProps> = ({ hero, candidateName }) => {
                 </div>
 
                 <div className="pt-2 border-t border-slate-800/60">
-                  <span className="text-slate-500"># Verified Foundations (5 Completed)</span>
+                  <span className="text-slate-500"># Verified Foundations (6 Completed)</span>
                   <ul className="mt-2 space-y-1.5 text-[11px] font-sans">
                     <li className="flex items-center gap-2 text-slate-300">
                       <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
